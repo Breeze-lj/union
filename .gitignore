@@ -1,4 +1,8 @@
+.cache
+.idea
+.clang-tidy-cache
+.sublime-workspace
 .vscode
 .DS_Store
-*.sublime-workspace
-.cache
+CMakeLists.txt.user*
+build-*
